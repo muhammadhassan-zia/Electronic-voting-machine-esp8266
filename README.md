@@ -49,4 +49,4 @@ The system successfully registers votes, provides instant feedback, and displays
 ![Circuit](images/circuit.png)
 
 ## Hardware Setup
-![Setup](images/setup.png)
+![Setup](hardware-design.jfif)
