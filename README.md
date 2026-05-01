@@ -40,7 +40,7 @@ Each button corresponds to a specific party. When a button is pressed, the vote 
 - Embedded system learning projects
 
 ## Code
-The ESP8266 program for vote counting and display is included in the `code/` folder.
+The ESP8266 program for vote counting and display is included in the `Electronic voting machine.ino` folder.
 
 ## Output
 The system successfully registers votes, provides instant feedback, and displays real-time voting results on the LCD.
