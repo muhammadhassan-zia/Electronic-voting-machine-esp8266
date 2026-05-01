@@ -46,7 +46,7 @@ The ESP8266 program for vote counting and display is included in the `code/` fol
 The system successfully registers votes, provides instant feedback, and displays real-time voting results on the LCD.
 
 ## Circuit Diagram
-![Circuit](images/circuit.png)
+![Circuit](Circuit-diagram.jfif)
 
 ## Hardware Setup
 ![Setup](hardware-design.jfif)
